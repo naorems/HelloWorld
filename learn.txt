@@ -1,3 +1,14 @@
 - Learning Git and GitHub
 - Lerning Robot Framework
 - Seen many Git video tutorials and found that hands on pracitce is the BEST
+- Git
+    - Git on Local Machine
+        - install the Git version specific to the machine and OS          
+    - Git on GitHub
+      - open the account
+    - if not required collaborative work, Git on Local is enough
+    - 2 ways to work with repository
+          - repository at local first
+              - create the normal directory where project work will be done
+              - initialize the repository
+          - repository at GitHub
