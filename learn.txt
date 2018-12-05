@@ -1,2 +1,3 @@
 - Learning Git and GitHub
 - Lerning Robot Framework
+- Seen many Git video tutorials and found that hands on pracitce is the BEST
